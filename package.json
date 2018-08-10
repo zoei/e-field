@@ -1,0 +1,25 @@
+{
+  "name": "field",
+  "version": "0.0.1",
+  "description": "Electron light Application store",
+  "main": "''",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoei/e-field.git"
+  },
+  "keywords": [
+    "Electron",
+    "light",
+    "app",
+    "store"
+  ],
+  "author": "zoei@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zoei/e-field/issues"
+  },
+  "homepage": "https://github.com/zoei/e-field#readme"
+}
